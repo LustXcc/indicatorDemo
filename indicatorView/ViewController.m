@@ -28,6 +28,7 @@
 
 - (void)setupIndicator
 {
+    
     // 标签栏整体
     UIView *titlesView = [[UIView alloc] init];
     titlesView.backgroundColor = [[UIColor whiteColor] colorWithAlphaComponent:1];
